@@ -31,7 +31,6 @@ footer, header, hgroup, menu, nav, section {
 
 body {
 	line-height: 1;
-	background-color: #f7f7f7;
 }
 
 blockquote, q {
@@ -49,8 +48,9 @@ table {
 }
 
 html {
-	font-family:  'Roboto', sans-serif;
+	font-family: 'Roboto', sans-serif;
 	height: 100%;
+	background: repeating-linear-gradient(#94bbe9, #eeaeca);
 }
 
 

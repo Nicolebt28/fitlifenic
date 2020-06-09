@@ -1,0 +1,30 @@
+.navbar{
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  text-align: center;
+  padding: 30px, 15px 5px;
+  line-height: 24px;
+  font-family: 'Poiret One', cursive;
+  background: rgba(255, 255, 255, 0.26);
+  color:  #fff;
+}
+
+.header_logo{
+  font-size: 24px;
+}
+
+.header_subtitle{
+  font-size: 16px;
+}
+
+.header_facebook{
+  height: 16px;
+  width: 16px;
+}
+
+.header_instagram{
+  height: 16px;
+  width: 16px;
+}
+
